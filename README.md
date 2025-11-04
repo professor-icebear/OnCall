@@ -217,8 +217,6 @@ oncall-agent-mvp/
 - Ensure repository is accessible with your GitHub token
 - Check backend logs for detailed error messages
 
-See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for more details.
-
 ## Tech Stack
 
 - **Backend**: Python, FastAPI, SQLAlchemy, SQLite
